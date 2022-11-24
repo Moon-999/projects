@@ -5,6 +5,14 @@
     - 웹환경 : Github / Heroku / Flask / SQLalchemy / kakao open builder 
     - 데이터베이스 : PostgreSQL
     - 언어 : python
+    - 주요 라이브러리
+        - gunicorn 20.1.0
+        - psycopg2 2.9.5
+        - Flask 2.2.2
+        - beautifulsoup4
+        - numpy 1.23.4
+        - SQLAlchemy 1.4.44
+
 - 프로젝트 ppt
     - [프로젝트 ppt](%EB%B6%80%EB%8F%99%EC%82%B0_%EC%B1%97%EB%B4%87_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.pdf)
 - 영상
@@ -30,4 +38,4 @@
     - 아파트 실거래가 공공API를 활용하여 매달 업데이트된 실거래가를 데이터베이스에 자동으로 입력해주는 배치파일을 생성함. [공공API활용파일](data.py), [배치파일](autoCreateDF.bat)
 
 - ![Heroku 무료버전 종료](https://user-images.githubusercontent.com/115765097/203669670-68408dfe-10c8-4cdc-9b30-b52573044f3f.png)
-    - Heroku 무료버전의 종료로 인해 11/28일 이후로 서버 중지되었지만 차후 다른 웹서버를 이용하면 코드재사용 가능.
+    - Heroku 무료버전의 종료로 인해 11/28일 이후로 챗봇 서비스가 중지되었지만 차후 다른 웹서버를 이용하면 챗봇 재사용 가능.
