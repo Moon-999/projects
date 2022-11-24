@@ -29,5 +29,5 @@
 - 프로젝트 기간 외 기능
     - 아파트 실거래가 공공API를 활용하여 매달 업데이트된 실거래가를 데이터베이스에 자동으로 입력해주는 배치파일을 생성함. [공공API활용파일](data.py), [배치파일](autoCreateDF.bat)
 
-- [https://user-images.githubusercontent.com/115765097/203669670-68408dfe-10c8-4cdc-9b30-b52573044f3f.png](https://user-images.githubusercontent.com/115765097/203669670-68408dfe-10c8-4cdc-9b30-b52573044f3f.png)
-    - Heroku 무료버전의 종료로 인해 11/28일 이후로 서버 중지되었지만 다른 웹서버를 이용하며 차후 코드재사용 가능.
+- ![Heroku 무료버전 종료](https://user-images.githubusercontent.com/115765097/203669670-68408dfe-10c8-4cdc-9b30-b52573044f3f.png)
+    - Heroku 무료버전의 종료로 인해 11/28일 이후로 서버 중지되었지만 차후 다른 웹서버를 이용하면 코드재사용 가능.
