@@ -28,4 +28,4 @@
    - 언어 : Java / HTML / CSS / JS
         
 - 내용 : 외국인 관광객을 대상으로 서울의 공공자전거 '따릉이'를 좀 더 쉽고 편안하게 이용할 수 있도록 대여소 위치 정보 검색, 자전거 코스 추천, 나만의 루트 계획, 게시판을 통한 정보 교류까지 가능한 웹사이트
-- 최종 PPT : [최종PPT](chatbot/%EB%B6%80%EB%8F%99%EC%82%B0_%EC%B1%97%EB%B4%87_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.pdf)
+- 최종 PPT : [최종PPT](https://www.miricanvas.com/v/11qayo2)
