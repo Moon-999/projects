@@ -7,7 +7,7 @@
    - 언어 : Java / HTML / CSS / JS
 
 - 프로젝트 ppt
-    - [프로젝트 ppt](https://www.miricanvas.com/v/11rk0nw)
+    - [프로젝트 ppt](https://github.com/Moon-999/HumanEdu/files/10722250/PPT.1.pdf)
 - 영상
     - https://www.youtube.com/watch?v=8toZAyLGljE&list=PLl-tyiVv1c3Q_2BSR9OYIjzfwtwgxHUNz
 
